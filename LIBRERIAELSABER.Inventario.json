@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "nombre": "Cuaderno cosido grande",
+  "categoria": "Cuadernos",
+  "precio_unitario": 17,
+  "stock": 151,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "nombre": "Cuaderno doble raya",
+  "categoria": "Cuadernos",
+  "precio_unitario": 18,
+  "stock": 136,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "nombre": "Cuaderno pentagrama musical",
+  "categoria": "Cuadernos",
+  "precio_unitario": 25,
+  "stock": 117,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152ce9"
+  },
+  "nombre": "Libro de Ciencias Naturales 3ro Básico",
+  "categoria": "Libros",
+  "precio_unitario": 95,
+  "stock": 163,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "nombre": "Libro de Sociales 5to Primaria",
+  "categoria": "Libros",
+  "precio_unitario": 88,
+  "stock": 128,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "nombre": "Libro de Química 5to Bachillerato",
+  "categoria": "Libros",
+  "precio_unitario": 115,
+  "stock": 84,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "nombre": "Resma de papel reciclado carta",
+  "categoria": "Hojas",
+  "precio_unitario": 33,
+  "stock": 142,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "nombre": "Hojas milimetradas paquete x100",
+  "categoria": "Hojas",
+  "precio_unitario": 20,
+  "stock": 112,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cee"
+  },
+  "nombre": "Hojas blancas sueltas A4",
+  "categoria": "Hojas",
+  "precio_unitario": 10,
+  "stock": 175,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "nombre": "Bolígrafo azul gel",
+  "categoria": "Lapiceros",
+  "precio_unitario": 5,
+  "stock": 188,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "nombre": "Bolígrafo borrable negro",
+  "categoria": "Lapiceros",
+  "precio_unitario": 6,
+  "stock": 139,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "nombre": "Lapicero de colores surtidos",
+  "categoria": "Lapiceros",
+  "precio_unitario": 12,
+  "stock": 170,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cf2"
+  },
+  "nombre": "Marcadores lavables",
+  "categoria": "Colores",
+  "precio_unitario": 30,
+  "stock": 67,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cf3"
+  },
+  "nombre": "Colores pastel x24",
+  "categoria": "Colores",
+  "precio_unitario": 28,
+  "stock": 98,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "nombre": "Mochila con ruedas",
+  "categoria": "Mochilas",
+  "precio_unitario": 275,
+  "stock": 54,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cf5"
+  },
+  "nombre": "Mochila reforzada con tirantes",
+  "categoria": "Mochilas",
+  "precio_unitario": 240,
+  "stock": 62,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "nombre": "Chumpa deportiva escolar",
+  "categoria": "Uniformes",
+  "precio_unitario": 190,
+  "stock": 75,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "nombre": "Camisa blanca manga larga",
+  "categoria": "Uniformes",
+  "precio_unitario": 85,
+  "stock": 110,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "nombre": "Juego de geometría escolar",
+  "categoria": "Herramientas",
+  "precio_unitario": 45,
+  "stock": 133,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "nombre": "Tijeras punta roma",
+  "categoria": "Herramientas",
+  "precio_unitario": 15,
+  "stock": 158,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cfa"
+  },
+  "nombre": "Sacapuntas metálico",
+  "categoria": "Herramientas",
+  "precio_unitario": 8,
+  "stock": 190,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "nombre": "Calculadora científica",
+  "categoria": "Tecnología",
+  "precio_unitario": 175,
+  "stock": 37,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cfc"
+  },
+  "nombre": "Memoria USB 32GB",
+  "categoria": "Tecnología",
+  "precio_unitario": 65,
+  "stock": 78,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "fecha_ingreso": "2025-09-12"
+},
+{
+  "_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "nombre": "Audífonos escolares",
+  "categoria": "Tecnología",
+  "precio_unitario": 90,
+  "stock": 44,
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "fecha_ingreso": "2025-09-12"
+}]

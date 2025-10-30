@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "nombre_empresa": "Ochoa-Almaraz S.A.",
+  "contacto": "Ing. Mariana Sepúlveda",
+  "telefono": "1-105-403-9258",
+  "correo": "velasocorro@corporacin.com",
+  "direccion": "Circuito Norte Ferrer 810 Interior 918\nVieja Islas Salomón, MOR 14836-4042",
+  "tipo_productos": [
+    "Tecnología",
+    "Útiles Escolares"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "nombre_empresa": "Club Navarro, Parra y Guillen",
+  "contacto": "Vicente Nancy Valenzuela",
+  "telefono": "(883)782-7759x92595",
+  "correo": "yuridia29@rios-alonzo.com",
+  "direccion": "Privada Hidalgo 975 Edif. 242 , Depto. 565\nNueva Côte d'Ivoire, OAX 29913-5928",
+  "tipo_productos": [
+    "Libros",
+    "Tecnología"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "nombre_empresa": "Industrias Reyes, Domínguez y Salcido",
+  "contacto": "Mtro. Mercedes Carrero",
+  "telefono": "1-966-186-4670x76666",
+  "correo": "sergioenriquez@mercado.com",
+  "direccion": "Periférico Norte Abrego 824 Interior 890\nNueva Antigua y Barbuda, NAY 90169-2417",
+  "tipo_productos": [
+    "Tecnología",
+    "Papelería"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "nombre_empresa": "Industrias Mesa, Pedroza y Melgar",
+  "contacto": "Mtro. Rosario Castellanos",
+  "telefono": "04406526741",
+  "correo": "ematos@acosta.org",
+  "direccion": "Retorno Sur Zambrano 704 179\nNueva Mali, PUE 14866-3694",
+  "tipo_productos": [
+    "Tecnología",
+    "Libros"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "nombre_empresa": "Laboratorios Arguello-Olivares",
+  "contacto": "Jorge Luis Fierro",
+  "telefono": "07419979005",
+  "correo": "julio-cesaramador@proyectos.com",
+  "direccion": "Corredor Pelayo 794 Interior 868\nSan Jorge los altos, Q. ROO 70886",
+  "tipo_productos": [
+    "Útiles Escolares",
+    "Papelería"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709f"
+  },
+  "nombre_empresa": "Laboratorios Garibay-Treviño",
+  "contacto": "Ing. Silvia Lucero",
+  "telefono": "+72(6)2243579851",
+  "correo": "iarellano@uribe.com",
+  "direccion": "Andador Chihuahua 454 607\nSan Ana Luisa los altos, CHIS 76991-3824",
+  "tipo_productos": [
+    "Papelería",
+    "Libros"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c4f7cec3c5d179a8b070a0"
+  },
+  "nombre_empresa": "Corporacin Abreu y Garza",
+  "contacto": "Lic. Joaquín Romero",
+  "telefono": "(985)221-7190x447",
+  "correo": "saucedofelipe@grupo.com",
+  "direccion": "Continuación Norte Rivas 163 298\nSan Lourdes los altos, DF 31704-9576",
+  "tipo_productos": [
+    "Uniformes",
+    "Papelería"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c4f7cec3c5d179a8b070a1"
+  },
+  "nombre_empresa": "Arce-Nazario",
+  "contacto": "Sr(a). Isabel Quintero",
+  "telefono": "(295)200-4053x38049",
+  "correo": "griegoalfredo@industrias.com",
+  "direccion": "Privada Sur Alonso 205 Interior 730\nSan Julio los bajos, CHIH 89563-9319",
+  "tipo_productos": [
+    "Uniformes",
+    "Libros"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c4f7cec3c5d179a8b070a2"
+  },
+  "nombre_empresa": "Proyectos Griego-Reyes",
+  "contacto": "Marisol Canales",
+  "telefono": "187-765-8374",
+  "correo": "agustinmurillo@archuleta.net",
+  "direccion": "Viaducto Distrito Federal 894 828\nNueva Djibouti, MICH 35962-5615",
+  "tipo_productos": [
+    "Útiles Escolares",
+    "Tecnología"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c4f7cec3c5d179a8b070a3"
+  },
+  "nombre_empresa": "Urrutia-Cotto A.C.",
+  "contacto": "Dulce María Maestas Menéndez",
+  "telefono": "560.626.6613x154",
+  "correo": "georgina11@villagomez.org",
+  "direccion": "Calle Senegal 247 679\nNueva Irán, DF 73973-7730",
+  "tipo_productos": [
+    "Útiles Escolares",
+    "Papelería"
+  ]
+}]

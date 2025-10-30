@@ -1,0 +1,7434 @@
+[{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080d6"
+  },
+  "ingreso_id": 1,
+  "fecha": {
+    "$date": "2025-07-13T14:32:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L6-9842",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-92253",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 30,
+  "costo_unitario": 28.72,
+  "costo_total": 861.6,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080d7"
+  },
+  "ingreso_id": 2,
+  "fecha": {
+    "$date": "2025-03-05T12:39:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L9-3314",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-48634",
+  "bodega": "Principal",
+  "cantidad_ingresada": 10,
+  "costo_unitario": 177.4,
+  "costo_total": 1774
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080d8"
+  },
+  "ingreso_id": 3,
+  "fecha": {
+    "$date": "2025-03-17T01:51:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "producto_nombre": "Juego de geometría escolar",
+  "lote": "L3-5357",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-50449",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 68,
+  "costo_unitario": 33.72,
+  "costo_total": 2292.96,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080d9"
+  },
+  "ingreso_id": 4,
+  "fecha": {
+    "$date": "2025-01-04T15:47:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf3"
+  },
+  "producto_nombre": "Colores pastel x24",
+  "lote": "L4-6403",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-10734",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 124,
+  "costo_unitario": 30.3,
+  "costo_total": 3757.2,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080da"
+  },
+  "ingreso_id": 5,
+  "fecha": {
+    "$date": "2025-03-17T08:40:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L5-1820",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-87584",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 101,
+  "costo_unitario": 156.25,
+  "costo_total": 15781.25,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080db"
+  },
+  "ingreso_id": 6,
+  "fecha": {
+    "$date": "2025-01-02T18:32:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L5-6928",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-97173",
+  "bodega": "Principal",
+  "cantidad_ingresada": 54,
+  "costo_unitario": 9.05,
+  "costo_total": 488.7,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080dc"
+  },
+  "ingreso_id": 7,
+  "fecha": {
+    "$date": "2025-01-15T11:58:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L3-9160",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-71960",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 137,
+  "costo_unitario": 133.68,
+  "costo_total": 18314.16,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080dd"
+  },
+  "ingreso_id": 8,
+  "fecha": {
+    "$date": "2025-05-26T19:12:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L6-1897",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-80728",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 150,
+  "costo_unitario": 20.39,
+  "costo_total": 3058.5,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080de"
+  },
+  "ingreso_id": 9,
+  "fecha": {
+    "$date": "2025-06-01T22:53:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L8-2225",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-17923",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 192,
+  "costo_unitario": 5.49,
+  "costo_total": 1054.08,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080df"
+  },
+  "ingreso_id": 10,
+  "fecha": {
+    "$date": "2025-01-21T10:03:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce9"
+  },
+  "producto_nombre": "Libro de Ciencias Naturales 3ro Básico",
+  "lote": "L4-7431",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-29484",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 106,
+  "costo_unitario": 70.67,
+  "costo_total": 7491.02,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080e0"
+  },
+  "ingreso_id": 11,
+  "fecha": {
+    "$date": "2025-04-23T05:57:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L8-6412",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-56676",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 170,
+  "costo_unitario": 12.53,
+  "costo_total": 2130.1
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080e1"
+  },
+  "ingreso_id": 12,
+  "fecha": {
+    "$date": "2025-04-03T08:47:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L9-5710",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-71314",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 121,
+  "costo_unitario": 21.67,
+  "costo_total": 2622.07,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080e2"
+  },
+  "ingreso_id": 13,
+  "fecha": {
+    "$date": "2025-05-25T21:12:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L9-1572",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-38833",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 11,
+  "costo_unitario": 122.49,
+  "costo_total": 1347.39,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080e3"
+  },
+  "ingreso_id": 14,
+  "fecha": {
+    "$date": "2025-01-10T09:28:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L2-2316",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-62293",
+  "bodega": "Principal",
+  "cantidad_ingresada": 135,
+  "costo_unitario": 4.34,
+  "costo_total": 585.9,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080e4"
+  },
+  "ingreso_id": 15,
+  "fecha": {
+    "$date": "2025-08-30T21:56:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L2-1495",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-31950",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 41,
+  "costo_unitario": 13.61,
+  "costo_total": 558.01
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080e5"
+  },
+  "ingreso_id": 16,
+  "fecha": {
+    "$date": "2025-03-02T02:50:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L7-5737",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-61478",
+  "bodega": "Principal",
+  "cantidad_ingresada": 57,
+  "costo_unitario": 12.9,
+  "costo_total": 735.3
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080e6"
+  },
+  "ingreso_id": 17,
+  "fecha": {
+    "$date": "2025-05-14T22:05:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L4-1180",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-93547",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 168,
+  "costo_unitario": 67.75,
+  "costo_total": 11382,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080e7"
+  },
+  "ingreso_id": 18,
+  "fecha": {
+    "$date": "2025-02-18T17:51:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L4-8448",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-65821",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 119,
+  "costo_unitario": 9.97,
+  "costo_total": 1186.43,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080e8"
+  },
+  "ingreso_id": 19,
+  "fecha": {
+    "$date": "2025-04-13T14:56:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L6-1070",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-49522",
+  "bodega": "Principal",
+  "cantidad_ingresada": 123,
+  "costo_unitario": 67.3,
+  "costo_total": 8277.9,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080e9"
+  },
+  "ingreso_id": 20,
+  "fecha": {
+    "$date": "2025-08-16T20:37:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L9-5765",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-94009",
+  "bodega": "Principal",
+  "cantidad_ingresada": 109,
+  "costo_unitario": 4.8,
+  "costo_total": 523.2,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080ea"
+  },
+  "ingreso_id": 21,
+  "fecha": {
+    "$date": "2025-04-29T18:33:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L3-6496",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-16281",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 122,
+  "costo_unitario": 16.4,
+  "costo_total": 2000.8,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080eb"
+  },
+  "ingreso_id": 22,
+  "fecha": {
+    "$date": "2025-08-24T13:33:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L9-7757",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-99495",
+  "bodega": "Principal",
+  "cantidad_ingresada": 188,
+  "costo_unitario": 176.5,
+  "costo_total": 33182,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080ec"
+  },
+  "ingreso_id": 23,
+  "fecha": {
+    "$date": "2025-06-25T09:46:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf5"
+  },
+  "producto_nombre": "Mochila reforzada con tirantes",
+  "lote": "L5-4424",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-48939",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 56,
+  "costo_unitario": 175.81,
+  "costo_total": 9845.36
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080ed"
+  },
+  "ingreso_id": 24,
+  "fecha": {
+    "$date": "2025-01-11T09:53:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L6-2156",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-71950",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 183,
+  "costo_unitario": 4.52,
+  "costo_total": 827.16
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080ee"
+  },
+  "ingreso_id": 25,
+  "fecha": {
+    "$date": "2025-03-27T20:40:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L1-1651",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-80874",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 131,
+  "costo_unitario": 18.81,
+  "costo_total": 2464.11,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080ef"
+  },
+  "ingreso_id": 26,
+  "fecha": {
+    "$date": "2025-07-28T21:07:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "producto_nombre": "Audífonos escolares",
+  "lote": "L8-3370",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-16841",
+  "bodega": "Principal",
+  "cantidad_ingresada": 23,
+  "costo_unitario": 81.44,
+  "costo_total": 1873.12,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080f0"
+  },
+  "ingreso_id": 27,
+  "fecha": {
+    "$date": "2025-08-19T10:09:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L3-9137",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-27670",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 16,
+  "costo_unitario": 27.31,
+  "costo_total": 436.96
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080f1"
+  },
+  "ingreso_id": 28,
+  "fecha": {
+    "$date": "2025-02-12T06:24:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L9-1287",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-56226",
+  "bodega": "Principal",
+  "cantidad_ingresada": 12,
+  "costo_unitario": 13.82,
+  "costo_total": 165.84
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080f2"
+  },
+  "ingreso_id": 29,
+  "fecha": {
+    "$date": "2025-05-06T10:17:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L1-1137",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-46028",
+  "bodega": "Principal",
+  "cantidad_ingresada": 179,
+  "costo_unitario": 4.26,
+  "costo_total": 762.54,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080f3"
+  },
+  "ingreso_id": 30,
+  "fecha": {
+    "$date": "2025-05-12T11:01:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L9-4156",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-60713",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 85,
+  "costo_unitario": 4.2,
+  "costo_total": 357,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080f4"
+  },
+  "ingreso_id": 31,
+  "fecha": {
+    "$date": "2025-01-29T14:39:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L1-4838",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-73376",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 80,
+  "costo_unitario": 10.36,
+  "costo_total": 828.8,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080f5"
+  },
+  "ingreso_id": 32,
+  "fecha": {
+    "$date": "2025-05-10T11:19:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L6-8741",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-32459",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 165,
+  "costo_unitario": 9.55,
+  "costo_total": 1575.75,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080f6"
+  },
+  "ingreso_id": 33,
+  "fecha": {
+    "$date": "2025-06-26T21:32:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cee"
+  },
+  "producto_nombre": "Hojas blancas sueltas A4",
+  "lote": "L4-1632",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-21429",
+  "bodega": "Principal",
+  "cantidad_ingresada": 10,
+  "costo_unitario": 7.95,
+  "costo_total": 79.5,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080f7"
+  },
+  "ingreso_id": 34,
+  "fecha": {
+    "$date": "2025-05-01T08:15:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf5"
+  },
+  "producto_nombre": "Mochila reforzada con tirantes",
+  "lote": "L2-6029",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-61323",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 196,
+  "costo_unitario": 180.45,
+  "costo_total": 35368.2,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080f8"
+  },
+  "ingreso_id": 35,
+  "fecha": {
+    "$date": "2025-02-07T20:51:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L3-5882",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-89551",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 171,
+  "costo_unitario": 279.92,
+  "costo_total": 47866.32,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080f9"
+  },
+  "ingreso_id": 36,
+  "fecha": {
+    "$date": "2025-05-12T02:47:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L1-9283",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-69423",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 198,
+  "costo_unitario": 6.24,
+  "costo_total": 1235.52
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080fa"
+  },
+  "ingreso_id": 37,
+  "fecha": {
+    "$date": "2025-07-02T10:39:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L3-7728",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-31701",
+  "bodega": "Principal",
+  "cantidad_ingresada": 143,
+  "costo_unitario": 86.64,
+  "costo_total": 12389.52
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080fb"
+  },
+  "ingreso_id": 38,
+  "fecha": {
+    "$date": "2025-03-04T14:43:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L4-7711",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-62627",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 170,
+  "costo_unitario": 103.78,
+  "costo_total": 17642.6,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080fc"
+  },
+  "ingreso_id": 39,
+  "fecha": {
+    "$date": "2025-07-29T23:51:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L9-6073",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-13338",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 100,
+  "costo_unitario": 75.74,
+  "costo_total": 7574,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080fd"
+  },
+  "ingreso_id": 40,
+  "fecha": {
+    "$date": "2025-08-09T20:28:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L5-7125",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-12940",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 44,
+  "costo_unitario": 15.41,
+  "costo_total": 678.04,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080fe"
+  },
+  "ingreso_id": 41,
+  "fecha": {
+    "$date": "2025-05-29T14:04:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L1-7511",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-11011",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 195,
+  "costo_unitario": 187.27,
+  "costo_total": 36517.65,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b080ff"
+  },
+  "ingreso_id": 42,
+  "fecha": {
+    "$date": "2025-02-06T14:57:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "producto_nombre": "Juego de geometría escolar",
+  "lote": "L6-3289",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-38106",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 136,
+  "costo_unitario": 43.13,
+  "costo_total": 5865.68,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08100"
+  },
+  "ingreso_id": 43,
+  "fecha": {
+    "$date": "2025-08-21T23:09:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L7-6664",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-96611",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 97,
+  "costo_unitario": 23.7,
+  "costo_total": 2298.9,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08101"
+  },
+  "ingreso_id": 44,
+  "fecha": {
+    "$date": "2025-08-20T17:42:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L4-2408",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-28080",
+  "bodega": "Principal",
+  "cantidad_ingresada": 44,
+  "costo_unitario": 23.07,
+  "costo_total": 1015.08,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08102"
+  },
+  "ingreso_id": 45,
+  "fecha": {
+    "$date": "2025-02-21T02:50:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L4-3048",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-35715",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 58,
+  "costo_unitario": 18.42,
+  "costo_total": 1068.36,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08103"
+  },
+  "ingreso_id": 46,
+  "fecha": {
+    "$date": "2025-01-13T20:01:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "producto_nombre": "Juego de geometría escolar",
+  "lote": "L1-7920",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-36987",
+  "bodega": "Principal",
+  "cantidad_ingresada": 25,
+  "costo_unitario": 45.75,
+  "costo_total": 1143.75,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08104"
+  },
+  "ingreso_id": 47,
+  "fecha": {
+    "$date": "2025-04-20T05:56:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf2"
+  },
+  "producto_nombre": "Marcadores lavables",
+  "lote": "L3-5207",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-53491",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 13,
+  "costo_unitario": 29.62,
+  "costo_total": 385.06
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08105"
+  },
+  "ingreso_id": 48,
+  "fecha": {
+    "$date": "2025-01-15T20:53:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce9"
+  },
+  "producto_nombre": "Libro de Ciencias Naturales 3ro Básico",
+  "lote": "L5-3395",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-77178",
+  "bodega": "Principal",
+  "cantidad_ingresada": 193,
+  "costo_unitario": 90.46,
+  "costo_total": 17458.78,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08106"
+  },
+  "ingreso_id": 49,
+  "fecha": {
+    "$date": "2025-02-16T06:05:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L2-3967",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-48438",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 162,
+  "costo_unitario": 119.3,
+  "costo_total": 19326.6,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08107"
+  },
+  "ingreso_id": 50,
+  "fecha": {
+    "$date": "2025-05-17T06:07:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce9"
+  },
+  "producto_nombre": "Libro de Ciencias Naturales 3ro Básico",
+  "lote": "L4-1859",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-18336",
+  "bodega": "Principal",
+  "cantidad_ingresada": 92,
+  "costo_unitario": 89.89,
+  "costo_total": 8269.88
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08108"
+  },
+  "ingreso_id": 51,
+  "fecha": {
+    "$date": "2025-07-26T08:06:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L8-8977",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-36831",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 167,
+  "costo_unitario": 255.91,
+  "costo_total": 42736.97,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08109"
+  },
+  "ingreso_id": 52,
+  "fecha": {
+    "$date": "2025-02-03T17:46:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cee"
+  },
+  "producto_nombre": "Hojas blancas sueltas A4",
+  "lote": "L5-7923",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-63771",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 110,
+  "costo_unitario": 7.05,
+  "costo_total": 775.5,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0810a"
+  },
+  "ingreso_id": 53,
+  "fecha": {
+    "$date": "2025-01-18T23:54:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L7-3334",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-41279",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 11,
+  "costo_unitario": 80.79,
+  "costo_total": 888.69,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0810b"
+  },
+  "ingreso_id": 54,
+  "fecha": {
+    "$date": "2025-04-11T02:30:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L9-8427",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-54459",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 48,
+  "costo_unitario": 161.86,
+  "costo_total": 7769.28,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0810c"
+  },
+  "ingreso_id": 55,
+  "fecha": {
+    "$date": "2025-05-25T15:02:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L4-8193",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-20491",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 17,
+  "costo_unitario": 116.13,
+  "costo_total": 1974.21,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0810d"
+  },
+  "ingreso_id": 56,
+  "fecha": {
+    "$date": "2025-08-03T20:31:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L5-4545",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-84661",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 111,
+  "costo_unitario": 5.59,
+  "costo_total": 620.49,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0810e"
+  },
+  "ingreso_id": 57,
+  "fecha": {
+    "$date": "2025-08-23T05:13:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L2-6398",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-74145",
+  "bodega": "Principal",
+  "cantidad_ingresada": 133,
+  "costo_unitario": 95.39,
+  "costo_total": 12686.87
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0810f"
+  },
+  "ingreso_id": 58,
+  "fecha": {
+    "$date": "2025-08-24T04:55:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "producto_nombre": "Audífonos escolares",
+  "lote": "L3-4242",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-32448",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 35,
+  "costo_unitario": 70.98,
+  "costo_total": 2484.3,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08110"
+  },
+  "ingreso_id": 59,
+  "fecha": {
+    "$date": "2025-02-20T08:36:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L7-6546",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-82000",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 38,
+  "costo_unitario": 222.43,
+  "costo_total": 8452.34
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08111"
+  },
+  "ingreso_id": 60,
+  "fecha": {
+    "$date": "2025-05-19T06:01:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L1-6268",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-28132",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 19,
+  "costo_unitario": 16.91,
+  "costo_total": 321.29,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08112"
+  },
+  "ingreso_id": 61,
+  "fecha": {
+    "$date": "2025-01-03T02:53:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L4-3654",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-76708",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 166,
+  "costo_unitario": 85.6,
+  "costo_total": 14209.6,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08113"
+  },
+  "ingreso_id": 62,
+  "fecha": {
+    "$date": "2025-02-27T11:26:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce9"
+  },
+  "producto_nombre": "Libro de Ciencias Naturales 3ro Básico",
+  "lote": "L7-3754",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-13740",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 145,
+  "costo_unitario": 80.86,
+  "costo_total": 11724.7,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08114"
+  },
+  "ingreso_id": 63,
+  "fecha": {
+    "$date": "2025-08-12T14:50:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf5"
+  },
+  "producto_nombre": "Mochila reforzada con tirantes",
+  "lote": "L3-1110",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-12790",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 106,
+  "costo_unitario": 231.05,
+  "costo_total": 24491.3,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08115"
+  },
+  "ingreso_id": 64,
+  "fecha": {
+    "$date": "2025-01-10T06:10:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L3-2826",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-80938",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 62,
+  "costo_unitario": 249.54,
+  "costo_total": 15471.48,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08116"
+  },
+  "ingreso_id": 65,
+  "fecha": {
+    "$date": "2025-05-17T05:24:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L4-9549",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-82647",
+  "bodega": "Principal",
+  "cantidad_ingresada": 103,
+  "costo_unitario": 17.33,
+  "costo_total": 1784.99
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08117"
+  },
+  "ingreso_id": 66,
+  "fecha": {
+    "$date": "2025-07-03T05:21:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf2"
+  },
+  "producto_nombre": "Marcadores lavables",
+  "lote": "L8-6180",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-15876",
+  "bodega": "Principal",
+  "cantidad_ingresada": 59,
+  "costo_unitario": 24.88,
+  "costo_total": 1467.92,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08118"
+  },
+  "ingreso_id": 67,
+  "fecha": {
+    "$date": "2025-04-12T12:39:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L1-1317",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-87708",
+  "bodega": "Principal",
+  "cantidad_ingresada": 98,
+  "costo_unitario": 14.73,
+  "costo_total": 1443.54,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08119"
+  },
+  "ingreso_id": 68,
+  "fecha": {
+    "$date": "2025-04-04T21:53:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L7-6801",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-66058",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 111,
+  "costo_unitario": 14.47,
+  "costo_total": 1606.17,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0811a"
+  },
+  "ingreso_id": 69,
+  "fecha": {
+    "$date": "2025-07-25T05:52:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfa"
+  },
+  "producto_nombre": "Sacapuntas metálico",
+  "lote": "L4-2601",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-41758",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 27,
+  "costo_unitario": 7.28,
+  "costo_total": 196.56,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0811b"
+  },
+  "ingreso_id": 70,
+  "fecha": {
+    "$date": "2025-08-05T12:48:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L4-7360",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-83143",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 172,
+  "costo_unitario": 88.26,
+  "costo_total": 15180.72,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0811c"
+  },
+  "ingreso_id": 71,
+  "fecha": {
+    "$date": "2025-05-26T06:02:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L7-8172",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-83986",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 69,
+  "costo_unitario": 4.34,
+  "costo_total": 299.46,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0811d"
+  },
+  "ingreso_id": 72,
+  "fecha": {
+    "$date": "2025-08-31T10:53:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L2-5840",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-42572",
+  "bodega": "Principal",
+  "cantidad_ingresada": 66,
+  "costo_unitario": 67.16,
+  "costo_total": 4432.56,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0811e"
+  },
+  "ingreso_id": 73,
+  "fecha": {
+    "$date": "2025-03-02T08:59:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "producto_nombre": "Juego de geometría escolar",
+  "lote": "L7-4539",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-41420",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 21,
+  "costo_unitario": 46.9,
+  "costo_total": 984.9,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0811f"
+  },
+  "ingreso_id": 74,
+  "fecha": {
+    "$date": "2025-07-07T21:18:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "producto_nombre": "Juego de geometría escolar",
+  "lote": "L1-9185",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-57321",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 126,
+  "costo_unitario": 32.1,
+  "costo_total": 4044.6
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08120"
+  },
+  "ingreso_id": 75,
+  "fecha": {
+    "$date": "2025-07-26T23:03:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L7-3891",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-16861",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 120,
+  "costo_unitario": 73.49,
+  "costo_total": 8818.8,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08121"
+  },
+  "ingreso_id": 76,
+  "fecha": {
+    "$date": "2025-08-08T04:00:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L9-7638",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-33720",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 148,
+  "costo_unitario": 17.85,
+  "costo_total": 2641.8,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08122"
+  },
+  "ingreso_id": 77,
+  "fecha": {
+    "$date": "2025-07-26T16:37:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L6-4274",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-81402",
+  "bodega": "Principal",
+  "cantidad_ingresada": 142,
+  "costo_unitario": 12.24,
+  "costo_total": 1738.08
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08123"
+  },
+  "ingreso_id": 78,
+  "fecha": {
+    "$date": "2025-01-14T10:46:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L5-5632",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-57732",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 150,
+  "costo_unitario": 3.74,
+  "costo_total": 561,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08124"
+  },
+  "ingreso_id": 79,
+  "fecha": {
+    "$date": "2025-08-07T02:58:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf5"
+  },
+  "producto_nombre": "Mochila reforzada con tirantes",
+  "lote": "L3-5485",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-91809",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 48,
+  "costo_unitario": 173.82,
+  "costo_total": 8343.36,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08125"
+  },
+  "ingreso_id": 80,
+  "fecha": {
+    "$date": "2025-02-07T23:14:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L2-5335",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-72813",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 138,
+  "costo_unitario": 12.72,
+  "costo_total": 1755.36
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08126"
+  },
+  "ingreso_id": 81,
+  "fecha": {
+    "$date": "2025-02-02T23:17:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L7-8243",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-98644",
+  "bodega": "Principal",
+  "cantidad_ingresada": 101,
+  "costo_unitario": 89.63,
+  "costo_total": 9052.63,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08127"
+  },
+  "ingreso_id": 82,
+  "fecha": {
+    "$date": "2025-05-11T04:09:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L9-5252",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-44302",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 56,
+  "costo_unitario": 4.59,
+  "costo_total": 257.04,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08128"
+  },
+  "ingreso_id": 83,
+  "fecha": {
+    "$date": "2025-07-06T13:47:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L4-9676",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-29346",
+  "bodega": "Principal",
+  "cantidad_ingresada": 101,
+  "costo_unitario": 67.97,
+  "costo_total": 6864.97
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08129"
+  },
+  "ingreso_id": 84,
+  "fecha": {
+    "$date": "2025-05-24T10:01:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L6-7067",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-49871",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 147,
+  "costo_unitario": 12.43,
+  "costo_total": 1827.21,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0812a"
+  },
+  "ingreso_id": 85,
+  "fecha": {
+    "$date": "2025-01-23T02:55:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L5-7046",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-45312",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 130,
+  "costo_unitario": 24.76,
+  "costo_total": 3218.8,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0812b"
+  },
+  "ingreso_id": 86,
+  "fecha": {
+    "$date": "2025-07-21T19:29:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf5"
+  },
+  "producto_nombre": "Mochila reforzada con tirantes",
+  "lote": "L6-9149",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-98295",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 200,
+  "costo_unitario": 173.41,
+  "costo_total": 34682,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0812c"
+  },
+  "ingreso_id": 87,
+  "fecha": {
+    "$date": "2025-01-22T20:33:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L6-9352",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-23037",
+  "bodega": "Principal",
+  "cantidad_ingresada": 107,
+  "costo_unitario": 14.41,
+  "costo_total": 1541.87
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0812d"
+  },
+  "ingreso_id": 88,
+  "fecha": {
+    "$date": "2025-09-08T18:31:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L2-3227",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-40353",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 87,
+  "costo_unitario": 20.36,
+  "costo_total": 1771.32,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0812e"
+  },
+  "ingreso_id": 89,
+  "fecha": {
+    "$date": "2025-03-09T05:24:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L4-8193",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-48325",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 76,
+  "costo_unitario": 11.9,
+  "costo_total": 904.4,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0812f"
+  },
+  "ingreso_id": 90,
+  "fecha": {
+    "$date": "2025-08-10T23:25:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf2"
+  },
+  "producto_nombre": "Marcadores lavables",
+  "lote": "L1-8096",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-33410",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 107,
+  "costo_unitario": 28.89,
+  "costo_total": 3091.23,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08130"
+  },
+  "ingreso_id": 91,
+  "fecha": {
+    "$date": "2025-01-05T13:54:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L8-3902",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-24508",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 150,
+  "costo_unitario": 98.68,
+  "costo_total": 14802
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08131"
+  },
+  "ingreso_id": 92,
+  "fecha": {
+    "$date": "2025-05-28T00:55:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "producto_nombre": "Audífonos escolares",
+  "lote": "L1-4973",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-20029",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 131,
+  "costo_unitario": 95.1,
+  "costo_total": 12458.1,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08132"
+  },
+  "ingreso_id": 93,
+  "fecha": {
+    "$date": "2025-06-01T04:34:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L7-5604",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-70208",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 66,
+  "costo_unitario": 4.1,
+  "costo_total": 270.6,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08133"
+  },
+  "ingreso_id": 94,
+  "fecha": {
+    "$date": "2025-03-31T19:45:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L8-2351",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-17104",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 158,
+  "costo_unitario": 19.45,
+  "costo_total": 3073.1,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08134"
+  },
+  "ingreso_id": 95,
+  "fecha": {
+    "$date": "2025-08-05T00:33:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L4-5912",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-56688",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 36,
+  "costo_unitario": 278.19,
+  "costo_total": 10014.84,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08135"
+  },
+  "ingreso_id": 96,
+  "fecha": {
+    "$date": "2025-02-10T13:05:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L4-6997",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-62016",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 185,
+  "costo_unitario": 22.16,
+  "costo_total": 4099.6,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08136"
+  },
+  "ingreso_id": 97,
+  "fecha": {
+    "$date": "2025-01-01T13:24:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L4-4518",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-52978",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 30,
+  "costo_unitario": 26.01,
+  "costo_total": 780.3,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08137"
+  },
+  "ingreso_id": 98,
+  "fecha": {
+    "$date": "2025-07-25T02:27:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L1-9568",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-38829",
+  "bodega": "Principal",
+  "cantidad_ingresada": 18,
+  "costo_unitario": 27.42,
+  "costo_total": 493.56,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08138"
+  },
+  "ingreso_id": 99,
+  "fecha": {
+    "$date": "2025-02-11T10:48:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfc"
+  },
+  "producto_nombre": "Memoria USB 32GB",
+  "lote": "L2-3354",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-57082",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 148,
+  "costo_unitario": 55.55,
+  "costo_total": 8221.4,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08139"
+  },
+  "ingreso_id": 100,
+  "fecha": {
+    "$date": "2025-08-12T19:36:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfa"
+  },
+  "producto_nombre": "Sacapuntas metálico",
+  "lote": "L4-9977",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-13162",
+  "bodega": "Principal",
+  "cantidad_ingresada": 186,
+  "costo_unitario": 8.35,
+  "costo_total": 1553.1,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0813a"
+  },
+  "ingreso_id": 101,
+  "fecha": {
+    "$date": "2025-03-11T23:07:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L9-5169",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-13253",
+  "bodega": "Principal",
+  "cantidad_ingresada": 62,
+  "costo_unitario": 97.8,
+  "costo_total": 6063.6
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0813b"
+  },
+  "ingreso_id": 102,
+  "fecha": {
+    "$date": "2025-01-06T15:47:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L3-1619",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-90390",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 30,
+  "costo_unitario": 26.99,
+  "costo_total": 809.7,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0813c"
+  },
+  "ingreso_id": 103,
+  "fecha": {
+    "$date": "2025-04-29T18:39:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L5-1852",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-90526",
+  "bodega": "Principal",
+  "cantidad_ingresada": 119,
+  "costo_unitario": 6.33,
+  "costo_total": 753.27,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0813d"
+  },
+  "ingreso_id": 104,
+  "fecha": {
+    "$date": "2025-06-10T16:24:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L4-8683",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-59125",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 18,
+  "costo_unitario": 4.56,
+  "costo_total": 82.08
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0813e"
+  },
+  "ingreso_id": 105,
+  "fecha": {
+    "$date": "2025-08-18T07:41:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L8-7889",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-86062",
+  "bodega": "Principal",
+  "cantidad_ingresada": 96,
+  "costo_unitario": 20.64,
+  "costo_total": 1981.44,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0813f"
+  },
+  "ingreso_id": 106,
+  "fecha": {
+    "$date": "2025-08-01T15:47:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L4-8344",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-76585",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 132,
+  "costo_unitario": 296.01,
+  "costo_total": 39073.32,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08140"
+  },
+  "ingreso_id": 107,
+  "fecha": {
+    "$date": "2025-06-28T19:37:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L6-7939",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-64665",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 101,
+  "costo_unitario": 13.16,
+  "costo_total": 1329.16
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08141"
+  },
+  "ingreso_id": 108,
+  "fecha": {
+    "$date": "2025-02-01T07:23:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L9-6665",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-66699",
+  "bodega": "Principal",
+  "cantidad_ingresada": 77,
+  "costo_unitario": 21.32,
+  "costo_total": 1641.64,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08142"
+  },
+  "ingreso_id": 109,
+  "fecha": {
+    "$date": "2025-03-11T10:01:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfa"
+  },
+  "producto_nombre": "Sacapuntas metálico",
+  "lote": "L2-2654",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-29177",
+  "bodega": "Principal",
+  "cantidad_ingresada": 80,
+  "costo_unitario": 7.11,
+  "costo_total": 568.8
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08143"
+  },
+  "ingreso_id": 110,
+  "fecha": {
+    "$date": "2025-02-20T12:06:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L3-5233",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-27041",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 71,
+  "costo_unitario": 21.7,
+  "costo_total": 1540.7,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08144"
+  },
+  "ingreso_id": 111,
+  "fecha": {
+    "$date": "2025-03-17T19:24:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L5-2440",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-68417",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 96,
+  "costo_unitario": 175.81,
+  "costo_total": 16877.76
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08145"
+  },
+  "ingreso_id": 112,
+  "fecha": {
+    "$date": "2025-08-17T13:20:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L5-5997",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-85430",
+  "bodega": "Principal",
+  "cantidad_ingresada": 158,
+  "costo_unitario": 12.79,
+  "costo_total": 2020.82,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08146"
+  },
+  "ingreso_id": 113,
+  "fecha": {
+    "$date": "2025-06-07T00:06:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L2-9933",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-53561",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 104,
+  "costo_unitario": 14.99,
+  "costo_total": 1558.96,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08147"
+  },
+  "ingreso_id": 114,
+  "fecha": {
+    "$date": "2025-04-20T15:12:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L5-9119",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-36056",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 157,
+  "costo_unitario": 15.79,
+  "costo_total": 2479.03,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08148"
+  },
+  "ingreso_id": 115,
+  "fecha": {
+    "$date": "2025-01-17T10:33:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L1-1673",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-46553",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 30,
+  "costo_unitario": 165.49,
+  "costo_total": 4964.7
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08149"
+  },
+  "ingreso_id": 116,
+  "fecha": {
+    "$date": "2025-03-02T10:38:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L3-7361",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-84345",
+  "bodega": "Principal",
+  "cantidad_ingresada": 12,
+  "costo_unitario": 5.39,
+  "costo_total": 64.68,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0814a"
+  },
+  "ingreso_id": 117,
+  "fecha": {
+    "$date": "2025-03-06T07:02:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L8-7419",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-26268",
+  "bodega": "Principal",
+  "cantidad_ingresada": 114,
+  "costo_unitario": 14.68,
+  "costo_total": 1673.52,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0814b"
+  },
+  "ingreso_id": 118,
+  "fecha": {
+    "$date": "2025-09-09T05:52:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L7-4895",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-84869",
+  "bodega": "Principal",
+  "cantidad_ingresada": 131,
+  "costo_unitario": 221.94,
+  "costo_total": 29074.14,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0814c"
+  },
+  "ingreso_id": 119,
+  "fecha": {
+    "$date": "2025-09-10T13:46:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L9-1758",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-40110",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 172,
+  "costo_unitario": 26.62,
+  "costo_total": 4578.64,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0814d"
+  },
+  "ingreso_id": 120,
+  "fecha": {
+    "$date": "2025-04-22T06:43:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L3-9501",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-44533",
+  "bodega": "Principal",
+  "cantidad_ingresada": 121,
+  "costo_unitario": 9.19,
+  "costo_total": 1111.99,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0814e"
+  },
+  "ingreso_id": 121,
+  "fecha": {
+    "$date": "2025-07-14T04:16:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L1-6697",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-99293",
+  "bodega": "Principal",
+  "cantidad_ingresada": 109,
+  "costo_unitario": 15.48,
+  "costo_total": 1687.32,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0814f"
+  },
+  "ingreso_id": 122,
+  "fecha": {
+    "$date": "2025-04-02T04:16:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L4-3597",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-35938",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 193,
+  "costo_unitario": 16.3,
+  "costo_total": 3145.9,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08150"
+  },
+  "ingreso_id": 123,
+  "fecha": {
+    "$date": "2025-04-04T07:14:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L4-5209",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-67857",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 99,
+  "costo_unitario": 207.33,
+  "costo_total": 20525.67,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08151"
+  },
+  "ingreso_id": 124,
+  "fecha": {
+    "$date": "2025-05-19T01:31:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L1-6086",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-53915",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 61,
+  "costo_unitario": 16.54,
+  "costo_total": 1008.94,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08152"
+  },
+  "ingreso_id": 125,
+  "fecha": {
+    "$date": "2025-04-25T12:47:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L9-2789",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-34620",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 87,
+  "costo_unitario": 90.49,
+  "costo_total": 7872.63,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08153"
+  },
+  "ingreso_id": 126,
+  "fecha": {
+    "$date": "2025-09-07T07:16:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L9-7919",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-60422",
+  "bodega": "Principal",
+  "cantidad_ingresada": 127,
+  "costo_unitario": 172.76,
+  "costo_total": 21940.52,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08154"
+  },
+  "ingreso_id": 127,
+  "fecha": {
+    "$date": "2025-07-22T18:50:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L6-1129",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-47127",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 153,
+  "costo_unitario": 34.21,
+  "costo_total": 5234.13
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08155"
+  },
+  "ingreso_id": 128,
+  "fecha": {
+    "$date": "2025-03-31T19:25:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L7-9014",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-68381",
+  "bodega": "Principal",
+  "cantidad_ingresada": 34,
+  "costo_unitario": 25.01,
+  "costo_total": 850.34
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08156"
+  },
+  "ingreso_id": 129,
+  "fecha": {
+    "$date": "2025-01-13T00:49:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L6-2253",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-55002",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 38,
+  "costo_unitario": 18.63,
+  "costo_total": 707.94,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08157"
+  },
+  "ingreso_id": 130,
+  "fecha": {
+    "$date": "2025-06-11T21:55:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L4-6173",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-50760",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 196,
+  "costo_unitario": 5.04,
+  "costo_total": 987.84
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08158"
+  },
+  "ingreso_id": 131,
+  "fecha": {
+    "$date": "2025-03-29T09:45:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "producto_nombre": "Juego de geometría escolar",
+  "lote": "L9-3454",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-52602",
+  "bodega": "Principal",
+  "cantidad_ingresada": 32,
+  "costo_unitario": 32.9,
+  "costo_total": 1052.8
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08159"
+  },
+  "ingreso_id": 132,
+  "fecha": {
+    "$date": "2025-08-29T11:34:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L2-4185",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-52820",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 197,
+  "costo_unitario": 17.83,
+  "costo_total": 3512.51,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0815a"
+  },
+  "ingreso_id": 133,
+  "fecha": {
+    "$date": "2025-02-16T03:48:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "producto_nombre": "Audífonos escolares",
+  "lote": "L1-1217",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-78131",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 21,
+  "costo_unitario": 88.66,
+  "costo_total": 1861.86,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0815b"
+  },
+  "ingreso_id": 134,
+  "fecha": {
+    "$date": "2025-06-19T02:06:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L6-8868",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-22104",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 115,
+  "costo_unitario": 75.8,
+  "costo_total": 8717,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0815c"
+  },
+  "ingreso_id": 135,
+  "fecha": {
+    "$date": "2025-03-09T10:18:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfa"
+  },
+  "producto_nombre": "Sacapuntas metálico",
+  "lote": "L7-8364",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-85024",
+  "bodega": "Principal",
+  "cantidad_ingresada": 149,
+  "costo_unitario": 7.55,
+  "costo_total": 1124.95,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0815d"
+  },
+  "ingreso_id": 136,
+  "fecha": {
+    "$date": "2025-05-17T14:01:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cee"
+  },
+  "producto_nombre": "Hojas blancas sueltas A4",
+  "lote": "L9-6546",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-36967",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 120,
+  "costo_unitario": 8.15,
+  "costo_total": 978,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0815e"
+  },
+  "ingreso_id": 137,
+  "fecha": {
+    "$date": "2025-07-24T06:52:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfc"
+  },
+  "producto_nombre": "Memoria USB 32GB",
+  "lote": "L5-7695",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-24695",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 111,
+  "costo_unitario": 69.01,
+  "costo_total": 7660.11,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0815f"
+  },
+  "ingreso_id": 138,
+  "fecha": {
+    "$date": "2025-07-04T02:20:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L9-7321",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-29480",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 71,
+  "costo_unitario": 26.8,
+  "costo_total": 1902.8,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08160"
+  },
+  "ingreso_id": 139,
+  "fecha": {
+    "$date": "2025-04-11T22:13:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf5"
+  },
+  "producto_nombre": "Mochila reforzada con tirantes",
+  "lote": "L3-7355",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-46822",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 173,
+  "costo_unitario": 228.57,
+  "costo_total": 39542.61,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08161"
+  },
+  "ingreso_id": 140,
+  "fecha": {
+    "$date": "2025-04-01T21:34:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L6-7246",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-85098",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 57,
+  "costo_unitario": 5.85,
+  "costo_total": 333.45,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08162"
+  },
+  "ingreso_id": 141,
+  "fecha": {
+    "$date": "2025-09-03T10:50:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L3-3002",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-22298",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 14,
+  "costo_unitario": 4.53,
+  "costo_total": 63.42,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08163"
+  },
+  "ingreso_id": 142,
+  "fecha": {
+    "$date": "2025-04-12T19:25:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L3-3592",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-90098",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 133,
+  "costo_unitario": 19.78,
+  "costo_total": 2630.74,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08164"
+  },
+  "ingreso_id": 143,
+  "fecha": {
+    "$date": "2025-02-06T22:06:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L7-1808",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-39685",
+  "bodega": "Principal",
+  "cantidad_ingresada": 165,
+  "costo_unitario": 31.61,
+  "costo_total": 5215.65,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08165"
+  },
+  "ingreso_id": 144,
+  "fecha": {
+    "$date": "2025-05-31T11:51:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L9-3156",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-85126",
+  "bodega": "Principal",
+  "cantidad_ingresada": 49,
+  "costo_unitario": 77.49,
+  "costo_total": 3797.01,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08166"
+  },
+  "ingreso_id": 145,
+  "fecha": {
+    "$date": "2025-06-22T04:42:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfa"
+  },
+  "producto_nombre": "Sacapuntas metálico",
+  "lote": "L7-3506",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-61872",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 55,
+  "costo_unitario": 7.06,
+  "costo_total": 388.3
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08167"
+  },
+  "ingreso_id": 146,
+  "fecha": {
+    "$date": "2025-08-12T09:45:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfc"
+  },
+  "producto_nombre": "Memoria USB 32GB",
+  "lote": "L8-2126",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-66386",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 94,
+  "costo_unitario": 65.66,
+  "costo_total": 6172.04,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08168"
+  },
+  "ingreso_id": 147,
+  "fecha": {
+    "$date": "2025-09-08T16:13:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L2-7955",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-11210",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 55,
+  "costo_unitario": 5.28,
+  "costo_total": 290.4,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08169"
+  },
+  "ingreso_id": 148,
+  "fecha": {
+    "$date": "2025-09-10T07:13:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf3"
+  },
+  "producto_nombre": "Colores pastel x24",
+  "lote": "L5-6728",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-83266",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 36,
+  "costo_unitario": 29.25,
+  "costo_total": 1053,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0816a"
+  },
+  "ingreso_id": 149,
+  "fecha": {
+    "$date": "2025-05-18T16:14:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L6-8296",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-29195",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 138,
+  "costo_unitario": 200.99,
+  "costo_total": 27736.62,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0816b"
+  },
+  "ingreso_id": 150,
+  "fecha": {
+    "$date": "2025-02-19T00:40:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L1-9066",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-17630",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 86,
+  "costo_unitario": 205.96,
+  "costo_total": 17712.56,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0816c"
+  },
+  "ingreso_id": 151,
+  "fecha": {
+    "$date": "2025-04-02T19:56:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L3-3273",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-60663",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 68,
+  "costo_unitario": 66.89,
+  "costo_total": 4548.52,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0816d"
+  },
+  "ingreso_id": 152,
+  "fecha": {
+    "$date": "2025-03-08T13:31:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L1-8037",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-13426",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 122,
+  "costo_unitario": 22.41,
+  "costo_total": 2734.02,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0816e"
+  },
+  "ingreso_id": 153,
+  "fecha": {
+    "$date": "2025-03-14T04:20:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L5-4286",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-95326",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 181,
+  "costo_unitario": 4.84,
+  "costo_total": 876.04,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0816f"
+  },
+  "ingreso_id": 154,
+  "fecha": {
+    "$date": "2025-03-14T11:43:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L6-1277",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-58993",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 58,
+  "costo_unitario": 23.92,
+  "costo_total": 1387.36
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08170"
+  },
+  "ingreso_id": 155,
+  "fecha": {
+    "$date": "2025-05-30T20:03:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L7-9746",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-97200",
+  "bodega": "Principal",
+  "cantidad_ingresada": 118,
+  "costo_unitario": 16.23,
+  "costo_total": 1915.14
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08171"
+  },
+  "ingreso_id": 156,
+  "fecha": {
+    "$date": "2025-02-08T15:10:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L9-6628",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-46803",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 116,
+  "costo_unitario": 192.18,
+  "costo_total": 22292.88,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08172"
+  },
+  "ingreso_id": 157,
+  "fecha": {
+    "$date": "2025-06-21T08:23:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfc"
+  },
+  "producto_nombre": "Memoria USB 32GB",
+  "lote": "L5-7596",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-73041",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 66,
+  "costo_unitario": 69.94,
+  "costo_total": 4616.04,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08173"
+  },
+  "ingreso_id": 158,
+  "fecha": {
+    "$date": "2025-01-12T06:27:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "producto_nombre": "Juego de geometría escolar",
+  "lote": "L1-5414",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-80894",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 160,
+  "costo_unitario": 35.79,
+  "costo_total": 5726.4,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08174"
+  },
+  "ingreso_id": 159,
+  "fecha": {
+    "$date": "2025-01-24T21:07:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf5"
+  },
+  "producto_nombre": "Mochila reforzada con tirantes",
+  "lote": "L6-4783",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-25792",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 12,
+  "costo_unitario": 182.31,
+  "costo_total": 2187.72,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08175"
+  },
+  "ingreso_id": 160,
+  "fecha": {
+    "$date": "2025-05-23T02:09:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "producto_nombre": "Audífonos escolares",
+  "lote": "L3-4306",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-10787",
+  "bodega": "Principal",
+  "cantidad_ingresada": 84,
+  "costo_unitario": 67.35,
+  "costo_total": 5657.4,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08176"
+  },
+  "ingreso_id": 161,
+  "fecha": {
+    "$date": "2025-04-22T12:40:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cee"
+  },
+  "producto_nombre": "Hojas blancas sueltas A4",
+  "lote": "L9-2413",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-24439",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 181,
+  "costo_unitario": 10.03,
+  "costo_total": 1815.43
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08177"
+  },
+  "ingreso_id": 162,
+  "fecha": {
+    "$date": "2025-05-04T10:11:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L4-3717",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-29917",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 15,
+  "costo_unitario": 21.69,
+  "costo_total": 325.35
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08178"
+  },
+  "ingreso_id": 163,
+  "fecha": {
+    "$date": "2025-05-06T08:39:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L9-1470",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-25402",
+  "bodega": "Principal",
+  "cantidad_ingresada": 124,
+  "costo_unitario": 15.1,
+  "costo_total": 1872.4
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08179"
+  },
+  "ingreso_id": 164,
+  "fecha": {
+    "$date": "2025-07-06T16:42:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfc"
+  },
+  "producto_nombre": "Memoria USB 32GB",
+  "lote": "L9-8608",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-46406",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 30,
+  "costo_unitario": 54.87,
+  "costo_total": 1646.1,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0817a"
+  },
+  "ingreso_id": 165,
+  "fecha": {
+    "$date": "2025-03-16T14:25:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L6-4976",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-31713",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 140,
+  "costo_unitario": 19.34,
+  "costo_total": 2707.6
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0817b"
+  },
+  "ingreso_id": 166,
+  "fecha": {
+    "$date": "2025-09-01T11:16:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L4-9278",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-95324",
+  "bodega": "Principal",
+  "cantidad_ingresada": 128,
+  "costo_unitario": 4.56,
+  "costo_total": 583.68,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0817c"
+  },
+  "ingreso_id": 167,
+  "fecha": {
+    "$date": "2025-04-15T23:57:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L8-8495",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-92508",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 136,
+  "costo_unitario": 115.32,
+  "costo_total": 15683.52,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0817d"
+  },
+  "ingreso_id": 168,
+  "fecha": {
+    "$date": "2025-03-30T10:13:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L6-3932",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-77092",
+  "bodega": "Principal",
+  "cantidad_ingresada": 174,
+  "costo_unitario": 30.56,
+  "costo_total": 5317.44,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0817e"
+  },
+  "ingreso_id": 169,
+  "fecha": {
+    "$date": "2025-05-31T02:38:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L8-5192",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-51383",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 125,
+  "costo_unitario": 12.68,
+  "costo_total": 1585,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0817f"
+  },
+  "ingreso_id": 170,
+  "fecha": {
+    "$date": "2025-09-01T16:00:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L5-7865",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-69533",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 109,
+  "costo_unitario": 151.7,
+  "costo_total": 16535.3,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08180"
+  },
+  "ingreso_id": 171,
+  "fecha": {
+    "$date": "2025-09-09T07:51:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L7-9062",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-65454",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 132,
+  "costo_unitario": 67.01,
+  "costo_total": 8845.32,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08181"
+  },
+  "ingreso_id": 172,
+  "fecha": {
+    "$date": "2025-04-09T01:30:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L4-2916",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-89782",
+  "bodega": "Principal",
+  "cantidad_ingresada": 186,
+  "costo_unitario": 193.97,
+  "costo_total": 36078.42,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08182"
+  },
+  "ingreso_id": 173,
+  "fecha": {
+    "$date": "2025-05-16T20:00:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L7-6628",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-20787",
+  "bodega": "Principal",
+  "cantidad_ingresada": 27,
+  "costo_unitario": 9.6,
+  "costo_total": 259.2,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08183"
+  },
+  "ingreso_id": 174,
+  "fecha": {
+    "$date": "2025-04-25T20:11:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L2-3707",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-26933",
+  "bodega": "Principal",
+  "cantidad_ingresada": 89,
+  "costo_unitario": 76.01,
+  "costo_total": 6764.89,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08184"
+  },
+  "ingreso_id": 175,
+  "fecha": {
+    "$date": "2025-03-13T17:44:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L7-1760",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-69729",
+  "bodega": "Principal",
+  "cantidad_ingresada": 123,
+  "costo_unitario": 31.32,
+  "costo_total": 3852.36,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08185"
+  },
+  "ingreso_id": 176,
+  "fecha": {
+    "$date": "2025-06-03T18:49:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L4-4800",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-60317",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 169,
+  "costo_unitario": 11,
+  "costo_total": 1859
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08186"
+  },
+  "ingreso_id": 177,
+  "fecha": {
+    "$date": "2025-01-30T19:30:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L2-9936",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-50794",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 123,
+  "costo_unitario": 16.9,
+  "costo_total": 2078.7,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08187"
+  },
+  "ingreso_id": 178,
+  "fecha": {
+    "$date": "2025-08-25T21:47:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf5"
+  },
+  "producto_nombre": "Mochila reforzada con tirantes",
+  "lote": "L8-2036",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-61484",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 100,
+  "costo_unitario": 192.08,
+  "costo_total": 19208,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08188"
+  },
+  "ingreso_id": 179,
+  "fecha": {
+    "$date": "2025-07-21T06:55:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L6-4592",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-78299",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 173,
+  "costo_unitario": 14.37,
+  "costo_total": 2486.01,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08189"
+  },
+  "ingreso_id": 180,
+  "fecha": {
+    "$date": "2025-06-28T14:18:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L9-8860",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-14515",
+  "bodega": "Principal",
+  "cantidad_ingresada": 36,
+  "costo_unitario": 205.94,
+  "costo_total": 7413.84,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0818a"
+  },
+  "ingreso_id": 181,
+  "fecha": {
+    "$date": "2025-03-03T02:01:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L7-9910",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-70217",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 44,
+  "costo_unitario": 18.2,
+  "costo_total": 800.8,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0818b"
+  },
+  "ingreso_id": 182,
+  "fecha": {
+    "$date": "2025-03-12T19:25:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "producto_nombre": "Juego de geometría escolar",
+  "lote": "L7-7855",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-18374",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 54,
+  "costo_unitario": 35,
+  "costo_total": 1890,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0818c"
+  },
+  "ingreso_id": 183,
+  "fecha": {
+    "$date": "2025-05-25T20:09:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cee"
+  },
+  "producto_nombre": "Hojas blancas sueltas A4",
+  "lote": "L7-5944",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-92831",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 150,
+  "costo_unitario": 7.03,
+  "costo_total": 1054.5
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0818d"
+  },
+  "ingreso_id": 184,
+  "fecha": {
+    "$date": "2025-07-12T11:37:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L7-4373",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-84493",
+  "bodega": "Principal",
+  "cantidad_ingresada": 98,
+  "costo_unitario": 12.93,
+  "costo_total": 1267.14,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0818e"
+  },
+  "ingreso_id": 185,
+  "fecha": {
+    "$date": "2025-03-25T11:35:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfc"
+  },
+  "producto_nombre": "Memoria USB 32GB",
+  "lote": "L2-7316",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-26165",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 23,
+  "costo_unitario": 57.47,
+  "costo_total": 1321.81,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0818f"
+  },
+  "ingreso_id": 186,
+  "fecha": {
+    "$date": "2025-06-23T23:08:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L8-8104",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-87516",
+  "bodega": "Principal",
+  "cantidad_ingresada": 16,
+  "costo_unitario": 16.77,
+  "costo_total": 268.32,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08190"
+  },
+  "ingreso_id": 187,
+  "fecha": {
+    "$date": "2025-02-19T04:22:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L6-4833",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-43198",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 76,
+  "costo_unitario": 5.32,
+  "costo_total": 404.32,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08191"
+  },
+  "ingreso_id": 188,
+  "fecha": {
+    "$date": "2025-07-12T05:05:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L6-1859",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-18818",
+  "bodega": "Principal",
+  "cantidad_ingresada": 28,
+  "costo_unitario": 25.09,
+  "costo_total": 702.52,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08192"
+  },
+  "ingreso_id": 189,
+  "fecha": {
+    "$date": "2025-02-06T05:44:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce9"
+  },
+  "producto_nombre": "Libro de Ciencias Naturales 3ro Básico",
+  "lote": "L8-3374",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-81838",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 67,
+  "costo_unitario": 70.3,
+  "costo_total": 4710.1
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08193"
+  },
+  "ingreso_id": 190,
+  "fecha": {
+    "$date": "2025-08-05T11:23:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "producto_nombre": "Audífonos escolares",
+  "lote": "L7-5679",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-38039",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 104,
+  "costo_unitario": 65.57,
+  "costo_total": 6819.28,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08194"
+  },
+  "ingreso_id": 191,
+  "fecha": {
+    "$date": "2025-01-28T15:56:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L3-5342",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-17216",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 12,
+  "costo_unitario": 15.63,
+  "costo_total": 187.56,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08195"
+  },
+  "ingreso_id": 192,
+  "fecha": {
+    "$date": "2025-01-05T16:11:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L5-5921",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-10792",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 24,
+  "costo_unitario": 88.88,
+  "costo_total": 2133.12
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08196"
+  },
+  "ingreso_id": 193,
+  "fecha": {
+    "$date": "2025-01-05T15:21:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L2-1910",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-88363",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 19,
+  "costo_unitario": 12.7,
+  "costo_total": 241.3
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08197"
+  },
+  "ingreso_id": 194,
+  "fecha": {
+    "$date": "2025-09-07T01:10:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L5-1081",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-88136",
+  "bodega": "Principal",
+  "cantidad_ingresada": 185,
+  "costo_unitario": 5,
+  "costo_total": 925
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08198"
+  },
+  "ingreso_id": 195,
+  "fecha": {
+    "$date": "2025-03-10T18:54:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce9"
+  },
+  "producto_nombre": "Libro de Ciencias Naturales 3ro Básico",
+  "lote": "L8-6294",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-37002",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 85,
+  "costo_unitario": 82.37,
+  "costo_total": 7001.45,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08199"
+  },
+  "ingreso_id": 196,
+  "fecha": {
+    "$date": "2025-01-25T15:28:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L9-2290",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-80517",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 90,
+  "costo_unitario": 12.51,
+  "costo_total": 1125.9,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0819a"
+  },
+  "ingreso_id": 197,
+  "fecha": {
+    "$date": "2025-02-09T04:13:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfa"
+  },
+  "producto_nombre": "Sacapuntas metálico",
+  "lote": "L9-4831",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-25269",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 181,
+  "costo_unitario": 5.9,
+  "costo_total": 1067.9
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0819b"
+  },
+  "ingreso_id": 198,
+  "fecha": {
+    "$date": "2025-03-24T10:32:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L1-5024",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-98820",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 45,
+  "costo_unitario": 84.27,
+  "costo_total": 3792.15,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0819c"
+  },
+  "ingreso_id": 199,
+  "fecha": {
+    "$date": "2025-07-31T10:47:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L9-5243",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-76328",
+  "bodega": "Principal",
+  "cantidad_ingresada": 73,
+  "costo_unitario": 5.39,
+  "costo_total": 393.47
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0819d"
+  },
+  "ingreso_id": 200,
+  "fecha": {
+    "$date": "2025-03-12T04:35:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L4-3909",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-25992",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 50,
+  "costo_unitario": 12.44,
+  "costo_total": 622
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0819e"
+  },
+  "ingreso_id": 201,
+  "fecha": {
+    "$date": "2025-06-15T05:48:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L2-1920",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-68765",
+  "bodega": "Principal",
+  "cantidad_ingresada": 91,
+  "costo_unitario": 188.05,
+  "costo_total": 17112.55,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b0819f"
+  },
+  "ingreso_id": 202,
+  "fecha": {
+    "$date": "2025-03-05T02:25:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L1-5491",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-92776",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 153,
+  "costo_unitario": 132.54,
+  "costo_total": 20278.62,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081a0"
+  },
+  "ingreso_id": 203,
+  "fecha": {
+    "$date": "2025-03-05T16:23:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L7-3087",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-35799",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 101,
+  "costo_unitario": 169.87,
+  "costo_total": 17156.87,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081a1"
+  },
+  "ingreso_id": 204,
+  "fecha": {
+    "$date": "2025-05-09T17:29:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "producto_nombre": "Audífonos escolares",
+  "lote": "L4-2241",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-44447",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 78,
+  "costo_unitario": 64.72,
+  "costo_total": 5048.16,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081a2"
+  },
+  "ingreso_id": 205,
+  "fecha": {
+    "$date": "2025-02-15T16:56:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L8-5004",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-93808",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 32,
+  "costo_unitario": 16.77,
+  "costo_total": 536.64,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081a3"
+  },
+  "ingreso_id": 206,
+  "fecha": {
+    "$date": "2025-01-15T17:05:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L4-3556",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-14306",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 96,
+  "costo_unitario": 13.23,
+  "costo_total": 1270.08,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081a4"
+  },
+  "ingreso_id": 207,
+  "fecha": {
+    "$date": "2025-03-18T23:57:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L3-4550",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-13705",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 119,
+  "costo_unitario": 15.49,
+  "costo_total": 1843.31,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081a5"
+  },
+  "ingreso_id": 208,
+  "fecha": {
+    "$date": "2025-04-25T07:06:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L3-9908",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-49352",
+  "bodega": "Principal",
+  "cantidad_ingresada": 151,
+  "costo_unitario": 63.48,
+  "costo_total": 9585.48,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081a6"
+  },
+  "ingreso_id": 209,
+  "fecha": {
+    "$date": "2025-05-08T20:58:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfa"
+  },
+  "producto_nombre": "Sacapuntas metálico",
+  "lote": "L8-5667",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-14345",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 73,
+  "costo_unitario": 7.77,
+  "costo_total": 567.21
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081a7"
+  },
+  "ingreso_id": 210,
+  "fecha": {
+    "$date": "2025-08-08T14:07:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L2-3631",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-70582",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 139,
+  "costo_unitario": 24.27,
+  "costo_total": 3373.53,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081a8"
+  },
+  "ingreso_id": 211,
+  "fecha": {
+    "$date": "2025-06-20T14:02:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L5-2529",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-73912",
+  "bodega": "Principal",
+  "cantidad_ingresada": 200,
+  "costo_unitario": 21.52,
+  "costo_total": 4304
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081a9"
+  },
+  "ingreso_id": 212,
+  "fecha": {
+    "$date": "2025-07-21T06:25:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L9-5300",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-56609",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 97,
+  "costo_unitario": 4.57,
+  "costo_total": 443.29,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081aa"
+  },
+  "ingreso_id": 213,
+  "fecha": {
+    "$date": "2025-09-12T02:10:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L1-3469",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-36050",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 187,
+  "costo_unitario": 264.24,
+  "costo_total": 49412.88,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ab"
+  },
+  "ingreso_id": 214,
+  "fecha": {
+    "$date": "2025-03-09T20:43:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "producto_nombre": "Juego de geometría escolar",
+  "lote": "L3-2162",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-38438",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 158,
+  "costo_unitario": 38.06,
+  "costo_total": 6013.48,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ac"
+  },
+  "ingreso_id": 215,
+  "fecha": {
+    "$date": "2025-01-29T01:56:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce9"
+  },
+  "producto_nombre": "Libro de Ciencias Naturales 3ro Básico",
+  "lote": "L3-4917",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-40255",
+  "bodega": "Principal",
+  "cantidad_ingresada": 157,
+  "costo_unitario": 81.99,
+  "costo_total": 12872.43,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ad"
+  },
+  "ingreso_id": 216,
+  "fecha": {
+    "$date": "2025-08-13T01:06:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L8-1636",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-10696",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 52,
+  "costo_unitario": 14.8,
+  "costo_total": 769.6,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ae"
+  },
+  "ingreso_id": 217,
+  "fecha": {
+    "$date": "2025-09-09T16:22:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L3-1810",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-88294",
+  "bodega": "Principal",
+  "cantidad_ingresada": 127,
+  "costo_unitario": 62.66,
+  "costo_total": 7957.82,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081af"
+  },
+  "ingreso_id": 218,
+  "fecha": {
+    "$date": "2025-03-02T21:09:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L3-3441",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-35981",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 62,
+  "costo_unitario": 4.35,
+  "costo_total": 269.7,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081b0"
+  },
+  "ingreso_id": 219,
+  "fecha": {
+    "$date": "2025-05-05T05:34:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce9"
+  },
+  "producto_nombre": "Libro de Ciencias Naturales 3ro Básico",
+  "lote": "L4-3601",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-92174",
+  "bodega": "Principal",
+  "cantidad_ingresada": 151,
+  "costo_unitario": 84.22,
+  "costo_total": 12717.22,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081b1"
+  },
+  "ingreso_id": 220,
+  "fecha": {
+    "$date": "2025-01-11T22:51:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L5-4890",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-58425",
+  "bodega": "Principal",
+  "cantidad_ingresada": 34,
+  "costo_unitario": 21.67,
+  "costo_total": 736.78,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081b2"
+  },
+  "ingreso_id": 221,
+  "fecha": {
+    "$date": "2025-05-13T20:03:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L9-1264",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-26101",
+  "bodega": "Principal",
+  "cantidad_ingresada": 62,
+  "costo_unitario": 85.77,
+  "costo_total": 5317.74,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081b3"
+  },
+  "ingreso_id": 222,
+  "fecha": {
+    "$date": "2025-07-07T05:33:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf3"
+  },
+  "producto_nombre": "Colores pastel x24",
+  "lote": "L7-5183",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-55791",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 57,
+  "costo_unitario": 22.13,
+  "costo_total": 1261.41,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081b4"
+  },
+  "ingreso_id": 223,
+  "fecha": {
+    "$date": "2025-08-25T11:25:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L9-6096",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-94345",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 31,
+  "costo_unitario": 3.7,
+  "costo_total": 114.7,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081b5"
+  },
+  "ingreso_id": 224,
+  "fecha": {
+    "$date": "2025-08-11T11:29:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf5"
+  },
+  "producto_nombre": "Mochila reforzada con tirantes",
+  "lote": "L1-7762",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-83805",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 31,
+  "costo_unitario": 184.4,
+  "costo_total": 5716.4,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081b6"
+  },
+  "ingreso_id": 225,
+  "fecha": {
+    "$date": "2025-02-23T09:55:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L6-5970",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-17170",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 199,
+  "costo_unitario": 180.32,
+  "costo_total": 35883.68,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081b7"
+  },
+  "ingreso_id": 226,
+  "fecha": {
+    "$date": "2025-01-09T20:14:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L8-5629",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-59834",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 20,
+  "costo_unitario": 23.77,
+  "costo_total": 475.4,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081b8"
+  },
+  "ingreso_id": 227,
+  "fecha": {
+    "$date": "2025-03-03T05:56:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf2"
+  },
+  "producto_nombre": "Marcadores lavables",
+  "lote": "L3-1417",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-61267",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 133,
+  "costo_unitario": 31.41,
+  "costo_total": 4177.53,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081b9"
+  },
+  "ingreso_id": 228,
+  "fecha": {
+    "$date": "2025-08-19T05:54:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L6-8240",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-36276",
+  "bodega": "Principal",
+  "cantidad_ingresada": 28,
+  "costo_unitario": 23.81,
+  "costo_total": 666.68,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ba"
+  },
+  "ingreso_id": 229,
+  "fecha": {
+    "$date": "2025-04-27T17:34:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L1-7464",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-23850",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 109,
+  "costo_unitario": 19.71,
+  "costo_total": 2148.39,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081bb"
+  },
+  "ingreso_id": 230,
+  "fecha": {
+    "$date": "2025-03-30T14:03:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf8"
+  },
+  "producto_nombre": "Juego de geometría escolar",
+  "lote": "L3-9056",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-90287",
+  "bodega": "Principal",
+  "cantidad_ingresada": 23,
+  "costo_unitario": 33.01,
+  "costo_total": 759.23
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081bc"
+  },
+  "ingreso_id": 231,
+  "fecha": {
+    "$date": "2025-01-13T23:12:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf3"
+  },
+  "producto_nombre": "Colores pastel x24",
+  "lote": "L6-2933",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-59501",
+  "bodega": "Principal",
+  "cantidad_ingresada": 178,
+  "costo_unitario": 30.05,
+  "costo_total": 5348.9
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081bd"
+  },
+  "ingreso_id": 232,
+  "fecha": {
+    "$date": "2025-09-03T22:05:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L3-2632",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-55757",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 107,
+  "costo_unitario": 4.5,
+  "costo_total": 481.5,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081be"
+  },
+  "ingreso_id": 233,
+  "fecha": {
+    "$date": "2025-07-10T12:36:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cee"
+  },
+  "producto_nombre": "Hojas blancas sueltas A4",
+  "lote": "L2-5264",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-39422",
+  "bodega": "Principal",
+  "cantidad_ingresada": 172,
+  "costo_unitario": 10.34,
+  "costo_total": 1778.48,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081bf"
+  },
+  "ingreso_id": 234,
+  "fecha": {
+    "$date": "2025-02-19T14:05:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf2"
+  },
+  "producto_nombre": "Marcadores lavables",
+  "lote": "L4-7322",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-98095",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 175,
+  "costo_unitario": 23.67,
+  "costo_total": 4142.25
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081c0"
+  },
+  "ingreso_id": 235,
+  "fecha": {
+    "$date": "2025-01-24T23:58:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L7-7367",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-53885",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 137,
+  "costo_unitario": 179.93,
+  "costo_total": 24650.41,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081c1"
+  },
+  "ingreso_id": 236,
+  "fecha": {
+    "$date": "2025-03-04T22:34:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L2-5994",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-44635",
+  "bodega": "Principal",
+  "cantidad_ingresada": 71,
+  "costo_unitario": 213.51,
+  "costo_total": 15159.21,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081c2"
+  },
+  "ingreso_id": 237,
+  "fecha": {
+    "$date": "2025-02-06T23:15:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cee"
+  },
+  "producto_nombre": "Hojas blancas sueltas A4",
+  "lote": "L3-8891",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-40961",
+  "bodega": "Principal",
+  "cantidad_ingresada": 43,
+  "costo_unitario": 7.83,
+  "costo_total": 336.69,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081c3"
+  },
+  "ingreso_id": 238,
+  "fecha": {
+    "$date": "2025-07-29T10:19:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L3-3318",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-56298",
+  "bodega": "Principal",
+  "cantidad_ingresada": 169,
+  "costo_unitario": 299.7,
+  "costo_total": 50649.3,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081c4"
+  },
+  "ingreso_id": 239,
+  "fecha": {
+    "$date": "2025-01-25T00:24:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L5-6586",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-44261",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 158,
+  "costo_unitario": 13.83,
+  "costo_total": 2185.14,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081c5"
+  },
+  "ingreso_id": 240,
+  "fecha": {
+    "$date": "2025-04-13T19:07:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfc"
+  },
+  "producto_nombre": "Memoria USB 32GB",
+  "lote": "L3-9862",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-69755",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 43,
+  "costo_unitario": 64.44,
+  "costo_total": 2770.92,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081c6"
+  },
+  "ingreso_id": 241,
+  "fecha": {
+    "$date": "2025-07-19T17:40:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L2-2858",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-50796",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 87,
+  "costo_unitario": 124.73,
+  "costo_total": 10851.51,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081c7"
+  },
+  "ingreso_id": 242,
+  "fecha": {
+    "$date": "2025-01-07T09:24:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L3-8000",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-93861",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 77,
+  "costo_unitario": 12.79,
+  "costo_total": 984.83,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081c8"
+  },
+  "ingreso_id": 243,
+  "fecha": {
+    "$date": "2025-04-26T19:25:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cee"
+  },
+  "producto_nombre": "Hojas blancas sueltas A4",
+  "lote": "L7-8026",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-43270",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 192,
+  "costo_unitario": 7.55,
+  "costo_total": 1449.6,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081c9"
+  },
+  "ingreso_id": 244,
+  "fecha": {
+    "$date": "2025-01-22T04:07:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L8-3275",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-95134",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 171,
+  "costo_unitario": 4.44,
+  "costo_total": 759.24,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ca"
+  },
+  "ingreso_id": 245,
+  "fecha": {
+    "$date": "2025-05-31T03:42:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L5-1185",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-53853",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 111,
+  "costo_unitario": 35.53,
+  "costo_total": 3943.83,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081cb"
+  },
+  "ingreso_id": 246,
+  "fecha": {
+    "$date": "2025-05-22T13:55:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L4-5966",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-16564",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 87,
+  "costo_unitario": 78.64,
+  "costo_total": 6841.68,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081cc"
+  },
+  "ingreso_id": 247,
+  "fecha": {
+    "$date": "2025-06-03T17:31:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L1-3638",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-74570",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 92,
+  "costo_unitario": 11.25,
+  "costo_total": 1035,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081cd"
+  },
+  "ingreso_id": 248,
+  "fecha": {
+    "$date": "2025-04-13T22:28:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L5-4776",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-80583",
+  "bodega": "Principal",
+  "cantidad_ingresada": 62,
+  "costo_unitario": 15.03,
+  "costo_total": 931.86
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ce"
+  },
+  "ingreso_id": 249,
+  "fecha": {
+    "$date": "2025-01-12T02:45:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L2-6122",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-66632",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 133,
+  "costo_unitario": 88.3,
+  "costo_total": 11743.9,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081cf"
+  },
+  "ingreso_id": 250,
+  "fecha": {
+    "$date": "2025-01-11T05:30:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L3-7297",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-90631",
+  "bodega": "Principal",
+  "cantidad_ingresada": 197,
+  "costo_unitario": 96.74,
+  "costo_total": 19057.78,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081d0"
+  },
+  "ingreso_id": 251,
+  "fecha": {
+    "$date": "2025-02-25T00:57:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L6-2561",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-13477",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 190,
+  "costo_unitario": 90.7,
+  "costo_total": 17233,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081d1"
+  },
+  "ingreso_id": 252,
+  "fecha": {
+    "$date": "2025-05-29T13:42:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce9"
+  },
+  "producto_nombre": "Libro de Ciencias Naturales 3ro Básico",
+  "lote": "L9-7517",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-27705",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 74,
+  "costo_unitario": 90.28,
+  "costo_total": 6680.72
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081d2"
+  },
+  "ingreso_id": 253,
+  "fecha": {
+    "$date": "2025-02-15T23:28:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L3-2504",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-69980",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 191,
+  "costo_unitario": 10.57,
+  "costo_total": 2018.87,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081d3"
+  },
+  "ingreso_id": 254,
+  "fecha": {
+    "$date": "2025-04-26T16:43:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L6-9086",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-91982",
+  "bodega": "Principal",
+  "cantidad_ingresada": 66,
+  "costo_unitario": 5.19,
+  "costo_total": 342.54,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081d4"
+  },
+  "ingreso_id": 255,
+  "fecha": {
+    "$date": "2025-01-26T08:20:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L4-4731",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-54548",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 11,
+  "costo_unitario": 16.01,
+  "costo_total": 176.11,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081d5"
+  },
+  "ingreso_id": 256,
+  "fecha": {
+    "$date": "2025-07-24T05:11:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L1-2622",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-64615",
+  "bodega": "Principal",
+  "cantidad_ingresada": 11,
+  "costo_unitario": 186,
+  "costo_total": 2046,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081d6"
+  },
+  "ingreso_id": 257,
+  "fecha": {
+    "$date": "2025-02-09T09:15:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf7"
+  },
+  "producto_nombre": "Camisa blanca manga larga",
+  "lote": "L6-4290",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-61779",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 192,
+  "costo_unitario": 85.4,
+  "costo_total": 16396.8
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081d7"
+  },
+  "ingreso_id": 258,
+  "fecha": {
+    "$date": "2025-05-03T04:55:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L1-6101",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-14807",
+  "bodega": "Principal",
+  "cantidad_ingresada": 43,
+  "costo_unitario": 13.61,
+  "costo_total": 585.23,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081d8"
+  },
+  "ingreso_id": 259,
+  "fecha": {
+    "$date": "2025-05-25T08:08:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf2"
+  },
+  "producto_nombre": "Marcadores lavables",
+  "lote": "L6-8962",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-59144",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 86,
+  "costo_unitario": 27.82,
+  "costo_total": 2392.52
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081d9"
+  },
+  "ingreso_id": 260,
+  "fecha": {
+    "$date": "2025-03-09T05:56:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L8-7588",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-92549",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 63,
+  "costo_unitario": 14.78,
+  "costo_total": 931.14
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081da"
+  },
+  "ingreso_id": 261,
+  "fecha": {
+    "$date": "2025-04-01T10:10:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L9-2715",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-10510",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 149,
+  "costo_unitario": 26.36,
+  "costo_total": 3927.64,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081db"
+  },
+  "ingreso_id": 262,
+  "fecha": {
+    "$date": "2025-03-01T11:37:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L7-1882",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-90164",
+  "bodega": "Principal",
+  "cantidad_ingresada": 87,
+  "costo_unitario": 16.19,
+  "costo_total": 1408.53,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081dc"
+  },
+  "ingreso_id": 263,
+  "fecha": {
+    "$date": "2025-04-13T21:23:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L7-1396",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-68943",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 81,
+  "costo_unitario": 24.22,
+  "costo_total": 1961.82,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081dd"
+  },
+  "ingreso_id": 264,
+  "fecha": {
+    "$date": "2025-02-03T15:31:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L9-8833",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-89841",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 66,
+  "costo_unitario": 15.59,
+  "costo_total": 1028.94,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081de"
+  },
+  "ingreso_id": 265,
+  "fecha": {
+    "$date": "2025-01-19T04:38:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L3-1061",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-54571",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 71,
+  "costo_unitario": 11,
+  "costo_total": 781,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081df"
+  },
+  "ingreso_id": 266,
+  "fecha": {
+    "$date": "2025-06-17T06:14:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L5-2393",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-91609",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 101,
+  "costo_unitario": 215.52,
+  "costo_total": 21767.52,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081e0"
+  },
+  "ingreso_id": 267,
+  "fecha": {
+    "$date": "2025-07-26T23:22:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L8-6592",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-76448",
+  "bodega": "Principal",
+  "cantidad_ingresada": 180,
+  "costo_unitario": 4.11,
+  "costo_total": 739.8,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081e1"
+  },
+  "ingreso_id": 268,
+  "fecha": {
+    "$date": "2025-03-28T06:54:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "producto_nombre": "Audífonos escolares",
+  "lote": "L4-3652",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-42842",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 134,
+  "costo_unitario": 83.09,
+  "costo_total": 11134.06,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081e2"
+  },
+  "ingreso_id": 269,
+  "fecha": {
+    "$date": "2025-05-16T20:50:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L9-3635",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-86015",
+  "bodega": "Principal",
+  "cantidad_ingresada": 183,
+  "costo_unitario": 5.25,
+  "costo_total": 960.75,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081e3"
+  },
+  "ingreso_id": 270,
+  "fecha": {
+    "$date": "2025-08-02T04:23:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L5-4041",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-81011",
+  "bodega": "Principal",
+  "cantidad_ingresada": 74,
+  "costo_unitario": 12.49,
+  "costo_total": 924.26,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081e4"
+  },
+  "ingreso_id": 271,
+  "fecha": {
+    "$date": "2025-02-15T08:49:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L9-1853",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-82632",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 125,
+  "costo_unitario": 132.78,
+  "costo_total": 16597.5,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081e5"
+  },
+  "ingreso_id": 272,
+  "fecha": {
+    "$date": "2025-07-10T06:50:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce7"
+  },
+  "producto_nombre": "Cuaderno doble raya",
+  "lote": "L9-5291",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-82404",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 125,
+  "costo_unitario": 17.43,
+  "costo_total": 2178.75,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081e6"
+  },
+  "ingreso_id": 273,
+  "fecha": {
+    "$date": "2025-02-07T06:01:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L4-1949",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-92708",
+  "bodega": "Principal",
+  "cantidad_ingresada": 173,
+  "costo_unitario": 156.09,
+  "costo_total": 27003.57
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081e7"
+  },
+  "ingreso_id": 274,
+  "fecha": {
+    "$date": "2025-03-23T05:56:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfa"
+  },
+  "producto_nombre": "Sacapuntas metálico",
+  "lote": "L9-2762",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-67272",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 144,
+  "costo_unitario": 7.24,
+  "costo_total": 1042.56
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081e8"
+  },
+  "ingreso_id": 275,
+  "fecha": {
+    "$date": "2025-08-02T23:51:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf2"
+  },
+  "producto_nombre": "Marcadores lavables",
+  "lote": "L1-7812",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-60990",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 86,
+  "costo_unitario": 27.71,
+  "costo_total": 2383.06,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081e9"
+  },
+  "ingreso_id": 276,
+  "fecha": {
+    "$date": "2025-06-06T11:38:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L8-1970",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-15943",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 136,
+  "costo_unitario": 128.56,
+  "costo_total": 17484.16,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ea"
+  },
+  "ingreso_id": 277,
+  "fecha": {
+    "$date": "2025-08-18T20:37:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L1-8284",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-12191",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 62,
+  "costo_unitario": 5.27,
+  "costo_total": 326.74,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081eb"
+  },
+  "ingreso_id": 278,
+  "fecha": {
+    "$date": "2025-01-08T13:08:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L7-9808",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-55758",
+  "bodega": "Principal",
+  "cantidad_ingresada": 160,
+  "costo_unitario": 261.15,
+  "costo_total": 41784,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ec"
+  },
+  "ingreso_id": 279,
+  "fecha": {
+    "$date": "2025-02-22T03:35:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfc"
+  },
+  "producto_nombre": "Memoria USB 32GB",
+  "lote": "L4-5983",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-34034",
+  "bodega": "Principal",
+  "cantidad_ingresada": 70,
+  "costo_unitario": 62.48,
+  "costo_total": 4373.6,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ed"
+  },
+  "ingreso_id": 280,
+  "fecha": {
+    "$date": "2025-03-11T01:31:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfb"
+  },
+  "producto_nombre": "Calculadora científica",
+  "lote": "L8-2282",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-51417",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 173,
+  "costo_unitario": 123.68,
+  "costo_total": 21396.64,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ee"
+  },
+  "ingreso_id": 281,
+  "fecha": {
+    "$date": "2025-07-06T07:35:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "producto_nombre": "Audífonos escolares",
+  "lote": "L2-2443",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-37445",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 60,
+  "costo_unitario": 93.08,
+  "costo_total": 5584.8,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ef"
+  },
+  "ingreso_id": 282,
+  "fecha": {
+    "$date": "2025-06-01T16:02:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf1"
+  },
+  "producto_nombre": "Lapicero de colores surtidos",
+  "lote": "L9-6480",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-50919",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 88,
+  "costo_unitario": 10.8,
+  "costo_total": 950.4
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081f0"
+  },
+  "ingreso_id": 283,
+  "fecha": {
+    "$date": "2025-03-27T06:07:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ceb"
+  },
+  "producto_nombre": "Libro de Química 5to Bachillerato",
+  "lote": "L9-3953",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-11050",
+  "bodega": "Principal",
+  "cantidad_ingresada": 64,
+  "costo_unitario": 89.38,
+  "costo_total": 5720.32,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081f1"
+  },
+  "ingreso_id": 284,
+  "fecha": {
+    "$date": "2025-08-03T16:29:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf4"
+  },
+  "producto_nombre": "Mochila con ruedas",
+  "lote": "L6-5169",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-32688",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 10,
+  "costo_unitario": 221.03,
+  "costo_total": 2210.3
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081f2"
+  },
+  "ingreso_id": 285,
+  "fecha": {
+    "$date": "2025-05-29T21:32:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L1-2843",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-38582",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 128,
+  "costo_unitario": 16.65,
+  "costo_total": 2131.2,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081f3"
+  },
+  "ingreso_id": 286,
+  "fecha": {
+    "$date": "2025-01-15T15:03:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L4-7114",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-66231",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 16,
+  "costo_unitario": 80.83,
+  "costo_total": 1293.28,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081f4"
+  },
+  "ingreso_id": 287,
+  "fecha": {
+    "$date": "2025-03-16T12:27:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf2"
+  },
+  "producto_nombre": "Marcadores lavables",
+  "lote": "L4-9455",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-91376",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 132,
+  "costo_unitario": 31.63,
+  "costo_total": 4175.16,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081f5"
+  },
+  "ingreso_id": 288,
+  "fecha": {
+    "$date": "2025-08-12T06:01:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L5-3325",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-48900",
+  "bodega": "Principal",
+  "cantidad_ingresada": 111,
+  "costo_unitario": 22.67,
+  "costo_total": 2516.37
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081f6"
+  },
+  "ingreso_id": 289,
+  "fecha": {
+    "$date": "2025-03-21T16:46:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cfd"
+  },
+  "producto_nombre": "Audífonos escolares",
+  "lote": "L5-2246",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-81633",
+  "bodega": "Principal",
+  "cantidad_ingresada": 200,
+  "costo_unitario": 83.42,
+  "costo_total": 16684
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081f7"
+  },
+  "ingreso_id": 290,
+  "fecha": {
+    "$date": "2025-08-05T18:51:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cea"
+  },
+  "producto_nombre": "Libro de Sociales 5to Primaria",
+  "lote": "L5-5260",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-63468",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 40,
+  "costo_unitario": 64.9,
+  "costo_total": 2596,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081f8"
+  },
+  "ingreso_id": 291,
+  "fecha": {
+    "$date": "2025-02-14T16:31:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce8"
+  },
+  "producto_nombre": "Cuaderno pentagrama musical",
+  "lote": "L4-7433",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-92426",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 131,
+  "costo_unitario": 25.32,
+  "costo_total": 3316.92,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081f9"
+  },
+  "ingreso_id": 292,
+  "fecha": {
+    "$date": "2025-08-01T22:15:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cee"
+  },
+  "producto_nombre": "Hojas blancas sueltas A4",
+  "lote": "L2-3773",
+  "doc_tipo": "FACT",
+  "doc_numero": "OC-2025-38622",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 145,
+  "costo_unitario": 7.13,
+  "costo_total": 1033.85
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081fa"
+  },
+  "ingreso_id": 293,
+  "fecha": {
+    "$date": "2025-02-23T22:29:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cec"
+  },
+  "producto_nombre": "Resma de papel reciclado carta",
+  "lote": "L6-8439",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-95003",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 91,
+  "costo_unitario": 30.94,
+  "costo_total": 2815.54
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081fb"
+  },
+  "ingreso_id": 294,
+  "fecha": {
+    "$date": "2025-08-21T13:31:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf0"
+  },
+  "producto_nombre": "Bolígrafo borrable negro",
+  "lote": "L1-2282",
+  "doc_tipo": "OC",
+  "doc_numero": "FACT-2025-30631",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 30,
+  "costo_unitario": 6.2,
+  "costo_total": 186
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081fc"
+  },
+  "ingreso_id": 295,
+  "fecha": {
+    "$date": "2025-08-28T00:42:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709a"
+  },
+  "proveedor_nombre": "Ochoa-Almaraz S.A.",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ce6"
+  },
+  "producto_nombre": "Cuaderno cosido grande",
+  "lote": "L6-8530",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-37330",
+  "bodega": "Principal",
+  "cantidad_ingresada": 60,
+  "costo_unitario": 13.77,
+  "costo_total": 826.2,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081fd"
+  },
+  "ingreso_id": 296,
+  "fecha": {
+    "$date": "2025-08-02T01:39:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709e"
+  },
+  "proveedor_nombre": "Laboratorios Arguello-Olivares",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf3"
+  },
+  "producto_nombre": "Colores pastel x24",
+  "lote": "L2-5793",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-43762",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 142,
+  "costo_unitario": 21.13,
+  "costo_total": 3000.46,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081fe"
+  },
+  "ingreso_id": 297,
+  "fecha": {
+    "$date": "2025-09-08T02:37:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152ced"
+  },
+  "producto_nombre": "Hojas milimetradas paquete x100",
+  "lote": "L3-3500",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-82861",
+  "bodega": "Anexo Norte",
+  "cantidad_ingresada": 121,
+  "costo_unitario": 21.14,
+  "costo_total": 2557.94,
+  "observaciones": "Reposición de stock"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b081ff"
+  },
+  "ingreso_id": 298,
+  "fecha": {
+    "$date": "2025-03-06T03:59:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709d"
+  },
+  "proveedor_nombre": "Industrias Mesa, Pedroza y Melgar",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cef"
+  },
+  "producto_nombre": "Bolígrafo azul gel",
+  "lote": "L4-2195",
+  "doc_tipo": "OC",
+  "doc_numero": "OC-2025-61875",
+  "bodega": "Principal",
+  "cantidad_ingresada": 119,
+  "costo_unitario": 4.19,
+  "costo_total": 498.61,
+  "observaciones": "Ingreso regular"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08200"
+  },
+  "ingreso_id": 299,
+  "fecha": {
+    "$date": "2025-01-21T22:10:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709c"
+  },
+  "proveedor_nombre": "Industrias Reyes, Domínguez y Salcido",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf9"
+  },
+  "producto_nombre": "Tijeras punta roma",
+  "lote": "L4-8578",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-48834",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 195,
+  "costo_unitario": 12.28,
+  "costo_total": 2394.6,
+  "observaciones": "Promoción proveedor"
+},
+{
+  "_id": {
+    "$oid": "68c501d2c3c5d179a8b08201"
+  },
+  "ingreso_id": 300,
+  "fecha": {
+    "$date": "2025-05-26T19:39:00.000Z"
+  },
+  "proveedor_id": {
+    "$oid": "68c4f7cec3c5d179a8b0709b"
+  },
+  "proveedor_nombre": "Club Navarro, Parra y Guillen",
+  "producto_id": {
+    "$oid": "68c4fa8a01573ee075152cf6"
+  },
+  "producto_nombre": "Chumpa deportiva escolar",
+  "lote": "L7-6587",
+  "doc_tipo": "FACT",
+  "doc_numero": "FACT-2025-61988",
+  "bodega": "Anexo Sur",
+  "cantidad_ingresada": 147,
+  "costo_unitario": 173.69,
+  "costo_total": 25532.43,
+  "observaciones": "Reposición de stock"
+}]
